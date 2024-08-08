@@ -27,7 +27,6 @@
 ## Hybrid Cloud
 - Connect cloud-based resources to on-premises infrastructure.
 - Integrate cloud-based resources with legacy IT applications.
-- Cloud-based resources are connected to on-premises infrastructure.
 - Brings private and public together.
 - Typically have their sensitive data stored locally and securely connect to the public cloud or AWS using services like VPN and Direct Connect.
 - VPN can create a secure connection into the public cloud for, say, creating new resources in AWS and Direct Connect creates a secure connection for data to move from the public cloud to the private cloud without traversing the public internet.

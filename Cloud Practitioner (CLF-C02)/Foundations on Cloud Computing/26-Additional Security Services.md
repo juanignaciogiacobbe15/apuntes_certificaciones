@@ -22,9 +22,14 @@
 - It checks applications for security vulnerabilities and deviations from security best practices, such as open access to Amazon EC2 instances and installations of vulnerable software versions.
 - After Amazon Inspector has performed an assessment, it provides you with a list of security findings. The list prioritizes by severity level, including a detailed description of each security issue and a recommendation for how to fix it.
 - AWS does not guarantee that following the provided recommendations resolves every potential security issue.
-- Under the [[21-AWS shared responsibility model]], customers are responsible for the security of their applications, processes, and tools that run on AWS services.
+- Under the [[21-AWS Shared Responsibility Model]], customers are responsible for the security of their applications, processes, and tools that run on AWS services.
 
 # Amazon GuardDuty
 - Provides intelligent threat detection for your AWS infrastructure and resources. It identifies threats by continuously monitoring the network activity and account behavior within your AWS environment.
 
 	![[guardDuty.png]]
+
+- After you have enabled GuardDuty for your AWS account, GuardDuty begins monitoring your network and account activity. 
+- You do not have to deploy or manage any additional security software. GuardDuty then continuously analyzes data from multiple AWS sources, including VPC Flow Logs and DNS logs.
+- If GuardDuty detects any threats, you can review detailed findings about them from the AWS Management Console. Findings include recommended steps for remediation. 
+- You can also configure AWS Lambda functions to take remediation steps automatically in response to GuardDuty’s security findings.

@@ -1,6 +1,6 @@
 # Instance Stores
 - Block-level storage volumes behave like physical hard drives.
-- Provides temporary block-level storage for an [[04-Amazon Elastic Compute Cloud(EC2)]] instance. An instance storage is disk storage that is physically attached to the host computer for an EC2 instance, and therefore has the same lifespan as the instance. When the instance is terminated, you lose any data in the instance store.
+- Provides temporary block-level storage for an [[04A-Amazon Elastic Compute Cloud(EC2)]] instance. An instance storage is disk storage that is physically attached to the host computer for an EC2 instance, and therefore has the same lifespan as the instance. When the instance is terminated, you lose any data in the instance store.
 
 	![[instance_store1.png]]
 

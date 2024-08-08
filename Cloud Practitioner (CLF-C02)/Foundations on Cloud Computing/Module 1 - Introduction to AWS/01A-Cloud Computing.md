@@ -3,14 +3,8 @@
 > On-demand delivery indicates that AWS has the resources you need, when you need them.
 > Is the delivery of computing services over the Internet.
 > In AWS, you only pay for what you use. 
+> [[01B-Advantages of Cloud Computing]]
 
-## Benefits
-- Trade upfront expense for variable expense: refers to data centers, physical servers, and other resources that you would need to invest in before using them. Variable expense means you only pay for computing resources you consume instead of investing heavily in data centers and servers before you know how you're going to use them. Cost saving.
-- Stop spending money to run and maintain data centers: focus less on these tasks and more on your applications and customers.
-- Stop guessing capacity: you don’t have to predict how much infrastructure capacity you will need before deploying an application.  You can access only the capacity that you need. You can also scale in or scale out in response to demand.
-- Benefit from massive economies of scale: you can achieve a lower variable cost than you can get on your own. Because usage from hundreds of thousands of customers can aggregate in the cloud, providers, such as AWS, can achieve higher economies of scale. The economy of scale translates into lower pay-as-you-go prices.
-- Increase speed and agility: The flexibility of cloud computing makes it easier for you to develop and deploy applications. It enables you to access new resources within minutes.
-- Go global in minutes: The global footprint of the AWS Cloud enables you to deploy applications to customers around the world quickly, while providing them with low latency.
 ## CapEx VS OpEx
 - Capital Expenditures(CapEx): Are upfront purchases toward fixed assets.
 - Operating Expenses(OpEx): Are funds used to run day-to-day operations.

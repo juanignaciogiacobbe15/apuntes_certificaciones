@@ -1,5 +1,5 @@
 # Directing Traffic with Elastic Load Balancing
-> **Elastic Load Balancing** is the AWS service that automatically distributes incoming application traffic across multiple resources, such as [[04-Amazon Elastic Compute Cloud(EC2)]] instances.
+> **Elastic Load Balancing** is the AWS service that automatically distributes incoming application traffic across multiple resources, such as [[04A-Amazon Elastic Compute Cloud(EC2)]] instances.
 
 - As you add or remove Amazon EC2 instances in response to the amount of incoming traffic, these requests route to the load balancer first.
 - For example, if you have multiple Amazon EC2 instances, Elastic Load Balancing distributes the workload across the multiple instances so that no single instance has to carry the bulk of it.
