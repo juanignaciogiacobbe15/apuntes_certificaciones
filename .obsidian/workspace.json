@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ce11f6827213f945",
+        "id": "743fe976baf947ac",
         "type": "tabs",
         "children": [
           {
-            "id": "127666271aec5d46",
+            "id": "a1f7d88534f789c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/08-AWS Global Infrastructure.md",
+                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/26-Additional Security Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/08-AWS Global Infrastructure.md",
+                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/26-Additional Security Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/08-AWS Global Infrastructure.md",
+                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/26-Additional Security Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/08-AWS Global Infrastructure.md"
+                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/26-Additional Security Services.md"
               }
             }
           }
@@ -146,30 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "127666271aec5d46",
+  "active": "73d4ed226f12a917",
   "lastOpenFiles": [
-    "README.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/availability_zones 1.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/availability_zones_characteristics.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/availability_zones.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/auto_scaling_group.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/08-AWS Global Infrastructure.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/edge_loc2.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/edge_loc1.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/edge_loc3.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/ec2-instance-availability_zone1.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/ec2-instance-availability_zone3.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/ec2-instance-availability_zone2.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/04-Amazon Elastic Compute Cloud(EC2).md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/03-Client-Server Model.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/guardDuty.png",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/aws_waf2.png",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/aws_waf1.png",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/25B-AWS Shield.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/26-Additional Security Services.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/25A-Denial-of-service attacks.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/denial-of-service_attacks.png",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/24-AWS Artifact.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/compliance_reports.png",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/23-AWS Organizations.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/organizations3.png",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/organizations2.png",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/organizations1.png",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/22- AWS Identity and Access Management(IAM).md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/21-AWS shared responsibility model.md",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/01-Cloud Computing.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/07B-Containerized Applications.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/06-Messaging and Queuing.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/07A-Serverless Computing.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/05-Elastic Load Balancing(ELB).md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/02-Cloud Deployment Models.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Introduction to AWS.md",
-    "Welcome.md",
+    "README.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/20-Additional Database Services.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/19-AWS Database Migration Service(AWS DMS).md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/18-Amazon Redshift.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/17B-Amazon DynamoDB.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/17A-Nonrelational Databases.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/16B-Amazon Relational Database Service(RDS).md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/16A-Relational Databases.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/08B-Availability Zones.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/15A-File Storage.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/15B-Amazon Elastic File System(EFS).md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/14B-Amazon Simple Storage Service(S3).md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/14A-Object Storage.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/13-Instance Stores.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/12-Domain Name System.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/11-Subnets.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/10-Amazon Virtual Private Cloud(VPC).md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/multi-factor-auth2.png",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/multi-factor-auth1.png",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/iam_groups.png",
     "Cloud Practitioner (CLF-C02)",
     "Foundations on Cloud Computing/Untitled",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img",
