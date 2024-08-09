@@ -9,7 +9,7 @@
 - It has none of the cloud advantages, but it offer more security of your data as it is not traversing any public space and isn't shared with other organizations with virtualization.
 - For example, you might have applications that run on technology that is fully kept in your on-premises data center. Though this model is much like legacy IT infrastructure, its incorporation of application management and virtualization technologies helps to increase resource utilization.
 
-	![[private_cloud.png]]
+	![[img/private_cloud.png]]
 
 ## Public Cloud: Cloud Based Deployment
 - Offered by AWS, Azure and GCP.
@@ -22,7 +22,7 @@
 - This option has all of the advantages of the cloud.
 - For example, a company might create an application consisting of virtual servers, databases, and networking components that are fully based in the cloud.
 
-	![[public_cloud.png]]
+	![[img/public_cloud.png]]
 
 ## Hybrid Cloud
 - Connect cloud-based resources to on-premises infrastructure.
