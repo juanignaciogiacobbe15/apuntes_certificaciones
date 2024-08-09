@@ -4,11 +4,11 @@
 - If a disaster occurs in one part of the Region, they are distant enough to reduce the chance that multiple Availability Zones are affected.
 - Best practice: Run applications across at least two Availability Zones in a Region.
 
-	![[availability_zones 1.png]]
+![availability_zones 1](../img/availability_zones%201.png)
 
 
-	![[ec2-instance-availability_zone1.png]]
+![ec2-instance-availability_zone1](../img/ec2-instance-availability_zone1.png)
 
-	![[ec2-instance-availability_zone2.png]]
+![ec2-instance-availability_zone1](../img/ec2-instance-availability_zone2.png)
 
-	![[ec2-instance-availability_zone3.png]]
+![ec2-instance-availability_zone1](../img/ec2-instance-availability_zone3.png)

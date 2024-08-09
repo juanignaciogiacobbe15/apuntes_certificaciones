@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8209ad819a464ba",
+        "id": "b0df5621961b77ac",
         "type": "tabs",
         "children": [
           {
-            "id": "8eb9e70ec2526375",
+            "id": "0cb9df4bf5a935d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 1 - Introduction to AWS/Module 1 - Introduction to AWS.md",
+                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Foundations on Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 1 - Introduction to AWS/Module 1 - Introduction to AWS.md",
+                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Foundations on Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 1 - Introduction to AWS/Module 1 - Introduction to AWS.md",
+                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Foundations on Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 1 - Introduction to AWS/Module 1 - Introduction to AWS.md"
+                "file": "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Foundations on Cloud Computing.md"
               }
             }
           }
@@ -146,39 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8eb9e70ec2526375",
+  "active": "0cb9df4bf5a935d7",
   "lastOpenFiles": [
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 1 - Introduction to AWS/02-Cloud Deployment Models.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/private_cloud.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 1 - Introduction to AWS/01B-Advantages of Cloud Computing.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 1 - Introduction to AWS/01A-Cloud Computing.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/41-The AWS Well-Architected Framework.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/Pasted image 20240809130642.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 1 - Introduction to AWS/Pasted image 20240809130521.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 2 - Compute in the Cloud/07B-Containerized Applications.md",
-    "README.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 2 - Compute in the Cloud/07A-Serverless Computing.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 2 - Compute in the Cloud/06-Messaging and Queuing.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 2 - Compute in the Cloud/05-Elastic Load Balancing(ELB).md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 2 - Compute in the Cloud/04D-EC2 Auto Scaling.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 2 - Compute in the Cloud/04C-Amazon EC2 Pricing.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 2 - Compute in the Cloud/04B-Amazon EC2 instance types.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 2 - Compute in the Cloud/04A-Amazon Elastic Compute Cloud(EC2).md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 2 - Compute in the Cloud/03-Client-Server Model.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/quiz_two.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/quiz_one.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Foundations on Cloud Computing.md",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 7 - Monitoring and Analytcs/Module 7 - Monitoring and Analytics.md",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 7 - Monitoring and Analytcs/29-AWS Trusted Advisor.md",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 7 - Monitoring and Analytcs/28-AWS CloudTrail.md",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 7 - Monitoring and Analytcs/27-Amazon CloudWatch.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 7 - Monitoring and Analytcs",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/Module 6 - Security.md",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/26-Additional Security Services.md",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/25B-AWS Shield.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 4 - Networking/12B-AWS Route 53.md",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/25A-Denial-of-service attacks.md",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/24-AWS Artifact.md",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/23-AWS Organizations.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/22- AWS Identity and Access Management(IAM).md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/21-AWS Shared Responsibility Model.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/Module 5 - Storage and Databases.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/20-Additional Database Services.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/19-AWS Database Migration Service(AWS DMS).md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/18-Amazon Redshift.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/17B-Amazon DynamoDB.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/17A-Nonrelational Databases.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/16B-Amazon Relational Database Service(RDS).md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/14B-Amazon Simple Storage Service(S3).md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/16A-Relational Databases.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/15B-Amazon Elastic File System(EFS).md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/15A-File Storage.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/14A-Object Storage.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/13-Instance Stores.md",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/private_cloud.png",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/Pasted image 20240809130642.png",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 1 - Introduction to AWS/Pasted image 20240809130521.png",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/quiz_two.png",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/quiz_one.png",
+    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 7 - Monitoring and Analytcs",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/both_acl_security_group.png",

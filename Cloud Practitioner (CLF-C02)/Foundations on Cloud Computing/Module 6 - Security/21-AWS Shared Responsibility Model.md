@@ -2,7 +2,7 @@
 - **AWS is responsible for some parts of your environment and you (the customer) are responsible for other parts**.
 - The **shared responsibility model divides into customer responsibilities (commonly referred to as “security in the cloud”) and AWS responsibilities (commonly referred to as “security of the cloud”)**.
 
-	![[shared_responsibility_model.png]]
+	![shared_responsibility_model](../img/shared_responsibility_model.png)
 
 ## Customers: Security IN the Cloud
 - **Customers are responsible for the security of everything that they create and put _in_ the AWS Cloud**.

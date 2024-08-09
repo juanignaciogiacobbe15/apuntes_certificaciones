@@ -3,5 +3,5 @@
 - A customer makes a request, and with permissions, the server responds to that request.
 - Server: Amazon Elastic Compute Cloud(EC2). An EC2 instance is a virtual server.
 
-	![[img/client_server_architecture.png]]
+	![client_server_architecture](../img/client_server_architecture.png)
 	- For example, suppose that a client makes a request for a news article, the score in an online game, or a funny video. The server evaluates the details of this request and fulfills it by returning the information to the client.

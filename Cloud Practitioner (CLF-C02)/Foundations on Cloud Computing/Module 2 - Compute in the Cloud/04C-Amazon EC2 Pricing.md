@@ -9,7 +9,7 @@
 - There are suited for steady-state workloads or ones with predictable usage.
 - Billing discount applied to the use of On-Demand Instances in your account.
 - Standard Reserved Instances: Is a good fit if you know the EC2 instance type and size you need for your steady-state applications and in which AWS Region you plan to run them. Require you to state the instance type and size, the platform description(OS) and Tenancy.
-- Convertible Reserved Instances: If you need to run your EC2 instances in different [[08B-Availability Zones]] or different instance types, then Convertible Reserved Instances might be right for you.
+- Convertible Reserved Instances: If you need to run your EC2 instances in different [08B-Availability Zones](../Module%203%20-%20Infrastructure%20and%20Realiability/08B-Availability%20Zones.md) or different instance types, then Convertible Reserved Instances might be right for you.
 
 ## Instance Saving Plans
 - Reduce your EC2 instance costs when you make an hourly spend commitment to an instance family and Region for a 1-year or 3-year term.

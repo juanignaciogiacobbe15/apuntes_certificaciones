@@ -13,7 +13,7 @@
 - EC2 instances are also resizable.
 - With an Amazon EC2 instance you can use a virtual server to run applications in the AWS Cloud.
 
-	![[img/EC2_example.png]]
+	![EC2_example](../img/EC2_example.png)
 
 	1. Launch: Begin by selecting a template with basic configurations for your instance(operating system, application server, or applications). You also select the instance type, which is the specific hardware configuration of your instance. You also specify security settings to control the network traffic that can flow into and out of your instance.
 	2. Connect: Your programs and applications have multiple different methods to connect directly to the instance and exchange data. Users can also connect to the instance by logging in and accessing the computer desktop.

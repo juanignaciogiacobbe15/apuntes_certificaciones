@@ -4,10 +4,10 @@
 
 ## CloudWatch Alarms
 - With CloudWatch, **you can create alarms that automatically perform actions if the value of your metric has gone above or below a predefined threshold.**
-- For example, suppose that your company’s developers use [[04A-Amazon Elastic Compute Cloud(EC2)]] instances for application development or testing purposes. If the developers occasionally forget to stop the instances, the instances will continue to run and incur charges. 
+- For example, suppose that your company’s developers [04A-Amazon Elastic Compute Cloud(EC2)](../Module%202%20-%20Compute%20in%20the%20Cloud/04A-Amazon%20Elastic%20Compute%20Cloud(EC2).md) instances for application development or testing purposes. If the developers occasionally forget to stop the instances, the instances will continue to run and incur charges. 
 - In this scenario, you could create a CloudWatch alarm that automatically stops an Amazon EC2 instance when the CPU utilization percentage has remained below a certain threshold for a specified period. When configuring the alarm, you can specify to receive a notification whenever this alarm is triggered.
 
 ## CloudWatch Dashboard
-- Enables you to access all the metrics for your resources from a single location. For example, you can use a CloudWatch dashboard to monitor the CPU utilization of an Amazon EC2 instance, the total number of requests made to an [[14B-Amazon Simple Storage Service(S3)]] bucket, and more. You can even customize separate dashboards for different business purposes, applications, or resources.
+- Enables you to access all the metrics for your resources from a single location. For example, you can use a CloudWatch dashboard to monitor the CPU utilization of an Amazon EC2 instance, the total number of requests made to an [14B-Amazon Simple Storage Service(S3)](../Module%205%20-%20Storage%20and%20Databases/14B-Amazon%20Simple%20Storage%20Service(S3).md) bucket, and more. You can even customize separate dashboards for different business purposes, applications, or resources.
 
-	![[cloudwatch_dashboard.png]]
+	![cloudwatch_dashboard](../img/cloudwatch_dashboard.png)

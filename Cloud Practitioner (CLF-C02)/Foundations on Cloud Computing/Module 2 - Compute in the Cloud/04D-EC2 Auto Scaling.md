@@ -8,7 +8,7 @@
 > By automatically scaling your instances in and out as needed, you can maintain a greater sense of application availability.
 
 
-![[img/scaling_ec2.png]]
+![scaling_ec2](../img/scaling_ec2.png)
 
 - Dynamic scaling responds to changing demand. 
 - Predictive scaling automatically schedules the right number of Amazon EC2 instances based on predicted demand.
@@ -16,6 +16,6 @@
 
 ## Amazon EC2 Auto Scaling Example
 
-	![[img/auto_scaling_group.png]]
+![auto_scaling_group](../img/auto_scaling_group.png)
 
 - Because Amazon EC2 Auto Scaling uses Amazon EC2 instances, you pay for only the instances you use, when you use them. You now have a cost-effective architecture that provides the best customer experience while reducing expenses.

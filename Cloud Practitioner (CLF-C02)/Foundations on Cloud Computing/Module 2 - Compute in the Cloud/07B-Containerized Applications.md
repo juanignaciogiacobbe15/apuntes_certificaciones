@@ -2,8 +2,9 @@
 > **Containers**: **Provide you with a standard way to package your application's code and dependencies into a single object**. 
 > They also can be use for processes and workflows in which there are essential requirements for security, reliability, and scalability.
 
-	![[img/containers1.png]]
-	![[img/containers2.png]]
+![containers1](../img/containers1.png)
+
+![containers2](../img/containers2.png)
 
 ## Amazon Elastic Container Service(Amazon ECS)
 - Highly scalable, high-performance container management system that enables you to run and scale containerized applications on AWS. 
@@ -14,6 +15,6 @@
 - **Kubernetes** is open-source software that enables you to deploy and manage containerized applications at scale. A large community of volunteers maintains Kubernetes, and AWS actively works together with the Kubernetes community. As new features and functionalities release for Kubernetes applications, you can easily apply these updates to your applications managed by Amazon EKS.
 
 ## AWS Fargate
-- [[07A-Serverless Computing]] engine for containers. It works with both Amazon ECS and Amazon EKS. 
+- [07A-Serverless Computing](07A-Serverless%20Computing.md) engine for containers. It works with both Amazon ECS and Amazon EKS. 
 - When using AWS Fargate, you do not need to provision or manage servers. AWS Fargate manages your server infrastructure for you. 
 - **You can focus more on innovating and developing your applications, and you pay only for the resources that are required to run your container**s.
