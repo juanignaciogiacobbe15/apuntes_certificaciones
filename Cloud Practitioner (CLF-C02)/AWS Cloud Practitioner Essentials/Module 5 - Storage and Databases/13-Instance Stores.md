@@ -13,6 +13,11 @@
 ## Amazon Elastic Block Store(EBS)
 -  **Provides block-level storage volumes that you can use with Amazon EC2 instances.**
 - If you stop or terminate an Amazon EC2 instance, all the data on the attached EBS volume remains available.
+- Tied to one [08B-Availability Zones](../Module%203%20-%20Infrastructure%20and%20Realiability/08B-Availability%20Zones.md).
+- Recomended for:
+	- Quickly accessible data.
+	- Running a database on an instance.
+	- Long-term data storage.
 - To create an EBS volume, **you define the configuration (such as volume size and type) and provision it**. After you create an EBS volume, **it can attach to an Amazon EC2 instance**.
 - Because EBS volumes are for data that needs to persist, it’s important to back up the data. **You can take incremental backups of EBS volumes by creating Amazon EBS snapshots**.
 

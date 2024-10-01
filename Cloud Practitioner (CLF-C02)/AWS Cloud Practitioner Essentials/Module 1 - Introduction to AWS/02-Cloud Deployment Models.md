@@ -9,7 +9,7 @@
 - It has none of the cloud advantages, but it offer more security of your data as it is not traversing any public space and isn't shared with other organizations with virtualization.
 - For example, you might have applications that run on technology that is fully kept in your on-premises data center. Though this model is much like legacy IT infrastructure, its incorporation of application management and virtualization technologies helps to increase resource utilization.
 
-	![private_cloud](../img/private_cloud.png)
+	![](../img/private.png)
 
 ## Public Cloud: Cloud Based Deployment
 - Offered by AWS, Azure and GCP.
@@ -22,7 +22,7 @@
 - This option has all of the advantages of the cloud.
 - For example, a company might create an application consisting of virtual servers, databases, and networking components that are fully based in the cloud.
 
-	![public_cloud](../img/public_cloud.png)
+	![](../img/public.png)
 
 ## Hybrid Cloud
 - Connect cloud-based resources to on-premises infrastructure.
@@ -32,4 +32,4 @@
 - VPN can create a secure connection into the public cloud for, say, creating new resources in AWS and Direct Connect creates a secure connection for data to move from the public cloud to the private cloud without traversing the public internet.
 - For example, suppose that a company wants to use cloud services that can automate batch data processing and analytics. However, the company has several legacy applications that are more suitable on premises and will not be migrated to the cloud. With a hybrid deployment, the company would be able to keep the legacy applications on premises while benefiting from the data and analytics services that run in the cloud.
 
-	![hybrid_cloud](../img/hybrid_cloud.png)
+	![](../img/hybrid.png)

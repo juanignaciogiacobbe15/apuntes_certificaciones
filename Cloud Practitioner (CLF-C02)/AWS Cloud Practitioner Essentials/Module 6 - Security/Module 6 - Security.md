@@ -7,3 +7,7 @@
 - [25A-Denial-of-service attacks](25A-Denial-of-service%20attacks.md)
 - [25B-AWS Shield](25B-AWS%20Shield.md)
 - [26-Additional Security Services](26-Additional%20Security%20Services.md)
+- [26B-Amazon Macie](26B-Amazon%20Macie.md)
+- [26C-Amazon GuardDuty](26C-Amazon%20GuardDuty.md)
+- [26D-Amazon Inspector](26D-Amazon%20Inspector.md)
+- [26E-AWS Secrets Manager](26E-AWS%20Secrets%20Manager.md)

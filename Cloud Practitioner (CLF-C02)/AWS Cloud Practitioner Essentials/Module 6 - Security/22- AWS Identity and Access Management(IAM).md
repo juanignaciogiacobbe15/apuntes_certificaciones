@@ -22,7 +22,7 @@
 - **It represents the person or application that interacts with AWS services and resources**. It consists of a name and credentials.
 - By default, when you create a new IAM user in AWS, it has no permissions associated with it. To allow the IAM user to perform specific actions in AWS, such as launching an [04A-Amazon Elastic Compute Cloud(EC2)](../Module%202%20-%20Compute%20in%20the%20Cloud/04A-Amazon%20Elastic%20Compute%20Cloud(EC2).md) instance or creating an [14B-Amazon Simple Storage Service(S3)](../Module%205%20-%20Storage%20and%20Databases/14B-Amazon%20Simple%20Storage%20Service(S3).md) bucket, you must grant the IAM user the necessary permissions.
 
-### Best practices
+### Best practice
 - **You create individual IAM users for each person who needs to access AWS**.  
 - Even if you have multiple employees who require the same level of access, you should create individual IAM users for each of them. **This provides additional security by allowing each IAM user to have a unique set of security credentials.**
 
@@ -31,7 +31,7 @@
 - Enable you to customize users’ levels of access to resources. 
 - For example, you can allow users to access all of the Amazon S3 buckets within your AWS account, or only a specific bucket.
 
-### Best practices
+### Best practice
 - Follow the security principle of **least privilege** when granting permissions. 
 - By following this principle, **you help to prevent users or roles from having more permissions than needed to perform their tasks**. 
 - For example, if an employee needs access to only a specific bucket, specify the bucket in the IAM policy. Do this instead of granting the employee access to all of the buckets in your AWS account.

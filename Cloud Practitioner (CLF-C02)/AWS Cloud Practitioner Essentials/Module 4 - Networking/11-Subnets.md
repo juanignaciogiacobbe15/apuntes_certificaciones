@@ -31,7 +31,7 @@
 
 
 ## Security Groups
-- **VPC component that checks packet permissions for and EC2 instance**: Virtual firewall that controls inbound and outbound traffic for an EC2 instance.
+- **VPC component that checks packet permissions for and EC2 instance**: Virtual firewall that controls inbound and outbound traffic for an EC2 instance. 
 - **By default, a security group denies all inbound traffic and allows all outbound traffic.** You can add custom rules to configure which traffic should be allowed; any other traffic would then be denied.
 - With both network ACLs and security groups, you can configure custom rules for the traffic in your VPC.
 

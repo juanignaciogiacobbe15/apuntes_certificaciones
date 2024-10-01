@@ -1,4 +1,5 @@
 # AWS Artifact
+- **Compliance reports**.
 - Depending on your company’s industry, you may need to uphold specific standards.
 - An audit or inspection will ensure that the company has met those standards.
 - The following are some of the compliance reports and regulations that you can find within AWS Artifact. Each report includes a description of its contents and the reporting period for which the document is valid.

@@ -12,3 +12,4 @@
 - [18-Amazon Redshift](18-Amazon%20Redshift.md)
 - [19-AWS Database Migration Service(AWS DMS)](19-AWS%20Database%20Migration%20Service(AWS%20DMS).md)
 - [20-Additional Database Services](20-Additional%20Database%20Services.md)
+- [20B-Amazon Athena](20B-Amazon%20Athena.md)

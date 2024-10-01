@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b0df5621961b77ac",
+        "id": "f2450f710cb14d81",
         "type": "tabs",
         "children": [
           {
-            "id": "0cb9df4bf5a935d7",
+            "id": "2418e8abef24df0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CompTIA Linux + XK0-004/11-Create, Modify and Redirect Files/05-Understanding Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CompTIA Linux + XK0-004/11-Create, Modify and Redirect Files/05-Understanding Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CompTIA Linux + XK0-004/11-Create, Modify and Redirect Files/05-Understanding Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CompTIA Linux + XK0-004/11-Create, Modify and Redirect Files/05-Understanding Links.md"
               }
             }
           }
@@ -146,53 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cb9df4bf5a935d7",
+  "active": "2418e8abef24df0e",
   "lastOpenFiles": [
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Foundations on Cloud Computing.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 7 - Monitoring and Analytcs/Module 7 - Monitoring and Analytics.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 7 - Monitoring and Analytcs/29-AWS Trusted Advisor.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 7 - Monitoring and Analytcs/28-AWS CloudTrail.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 7 - Monitoring and Analytcs/27-Amazon CloudWatch.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/Module 6 - Security.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/26-Additional Security Services.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/25B-AWS Shield.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 4 - Networking/12B-AWS Route 53.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/25A-Denial-of-service attacks.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/24-AWS Artifact.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/23-AWS Organizations.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/22- AWS Identity and Access Management(IAM).md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security/21-AWS Shared Responsibility Model.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/Module 5 - Storage and Databases.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/20-Additional Database Services.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/19-AWS Database Migration Service(AWS DMS).md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/18-Amazon Redshift.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/17B-Amazon DynamoDB.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/17A-Nonrelational Databases.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/16B-Amazon Relational Database Service(RDS).md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/14B-Amazon Simple Storage Service(S3).md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/16A-Relational Databases.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/15B-Amazon Elastic File System(EFS).md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/15A-File Storage.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases/14A-Object Storage.md",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/private_cloud.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/Pasted image 20240809130642.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 1 - Introduction to AWS/Pasted image 20240809130521.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/quiz_two.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/quiz_one.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 7 - Monitoring and Analytcs",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 6 - Security",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 5 - Storage and Databases",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/both_acl_security_group.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 4 - Networking",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 3 - Infrastructure and Realiability",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 2 - Compute in the Cloud",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/Module 1 - Introduction to AWS",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/the_aws_well_structured_framework.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/amazon_q_developer.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/aws_snow_family.png",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img/aws_marketplace_categories.png",
-    "Cloud Practitioner (CLF-C02)",
-    "Foundations on Cloud Computing/Untitled",
-    "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing/img"
+    "CompTIA Linux + XK0-004/11-Create, Modify and Redirect Files/04-Introduction to Regular Expressions.md",
+    "CompTIA Linux + XK0-004/11-Create, Modify and Redirect Files/05-Understanding Links.md",
+    "CompTIA Linux + XK0-004/11-Create, Modify and Redirect Files/03-File Globbing.md",
+    "CompTIA Linux + XK0-004/11-Create, Modify and Redirect Files/02-Working with Files.md",
+    "CompTIA Linux + XK0-004/11-Create, Modify and Redirect Files/01-Working with Directories.md",
+    "CompTIA Linux + XK0-004/03-Networking/04-Testing Connectivity.md",
+    "CompTIA Linux + XK0-004/11-Create, Modify and Redirect Files",
+    "CompTIA Linux + XK0-004/03-Networking/02-Network Manager.md",
+    "CompTIA Linux + XK0-004/03-Networking/03-Legacy Networking Tools.md",
+    "CompTIA Linux + XK0-004/03-Networking/01-Networking Fundamentals.md",
+    "CompTIA Linux + XK0-004/01-Linux Boot Process/02-Grand Unified Boot Loader(GRUB) on MBR.md",
+    "CompTIA Linux + XK0-004/01-Linux Boot Process/01-Linux Boot Process.md",
+    "CompTIA Linux + XK0-004/img/Pasted image 20240924101425.png",
+    "CompTIA Linux + XK0-004/img/Pasted image 20240924091357.png",
+    "CompTIA Linux + XK0-004/img/Pasted image 20240924085026.png",
+    "Pasted image 20240918113523.png",
+    "CompTIA Linux + XK0-004/img/Pasted image 20240924082723.png",
+    "CompTIA Linux + XK0-004/03-Networking",
+    "CompTIA Linux + XK0-004/img/Pasted image 20240923123231.png",
+    "CompTIA Linux + XK0-004/img",
+    "Solutions Architect Associate/01-EC2/02-Grupos de Ubicación o Colocación.md",
+    "CompTIA Linux + XK0-004/01-Linux Boot Process",
+    "CompTIA Linux + XK0-004",
+    "Solutions Architect Associate/01-EC2/01-IP Pública VS IP Privada.md",
+    "Solutions Architect Associate/01-EC2/EC2.md",
+    "Solutions Architect Associate(SAA C03)/EC2/01-IP Publica VS IP Privada.md",
+    "Terraform/02-Cloud Agnostic IaC with Terraform.md",
+    "Solutions Architect Associate/01-EC2",
+    "Solutions Architect Associate",
+    "Pasted image 20240918113302.png",
+    "Pasted image 20240918113217.png",
+    "Terraform/img",
+    "Terraform/img/Pasted image 20240918110451.png",
+    "Terraform/01-IaC and its Benefits.md",
+    "Ingeniería de Software I/03B-Open-Closed Principle.md",
+    "Terraform",
+    "Docker",
+    "Ingeniería de Software I/03-SOLID.md",
+    "Ingeniería de Software I/03A-Single Responsibility Principle.md",
+    "Ingeniería de Software I/02-Diseño de Código.md",
+    "Ingeniería de Software I/01-Entendiendo el Problema.md",
+    "Ingeniería de Software I/API REST.md",
+    "Ingeniería de Software I/img/Pasted image 20240917153303.png",
+    "Redes/TP1.md",
+    "Cloud Buddy/01-AWS Secure Maturity Model.md",
+    "Ingeniería de Software I/SCRUM.md"
   ]
 }

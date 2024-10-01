@@ -9,3 +9,4 @@
 - [06-Messaging and Queuing](06-Messaging%20and%20Queuing.md)
 - [07A-Serverless Computing](07A-Serverless%20Computing.md)
 - [07B-Containerized Applications](07B-Containerized%20Applications.md)
+- [07C-AWS Lambda](07C-AWS%20Lambda.md)

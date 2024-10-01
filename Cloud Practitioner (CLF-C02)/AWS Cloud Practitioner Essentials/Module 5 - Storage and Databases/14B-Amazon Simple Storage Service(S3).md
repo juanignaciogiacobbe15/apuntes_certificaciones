@@ -1,7 +1,13 @@
 # Amazon Simple Storage Service(S3)
 - Provides **object-level storage**. -> **S3 stores data as objects in buckets**. 
+- By default, buckets and their contents are private.
+- Essentially unlimited storage that can hold millions of objects per bucket.
+- **Regional service**, but bucket names must be globally unique.
+- Durability: Objects are never lost or compromised.
+- Availability: You can access your data quickly when you need it.
 - You can set permissions to control visibility and access to the uploaded files. 
 - You can also use the Amazon S3 versioning feature to track changes to your objects over time.
+- You can set security at the bucket level or individual object level using access control lists (ACLs), bucket policies, or access point policies.
 
 ## Amazon S3 Storage Classes
 - **You only pay for what you use.**
